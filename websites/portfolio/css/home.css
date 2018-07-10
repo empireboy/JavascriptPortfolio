@@ -1,0 +1,38 @@
+.block {
+    background-color: #f1f1f1;
+    margin: 0 auto;
+    width: 90%;
+    height: auto;
+    margin-top: 150px;
+    text-align: left;
+    padding: 3%;
+    color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    overflow: auto;
+}
+
+.block-text {
+  text-align: left;
+  width: 50%;
+  color: black;
+  float: left;
+}
+
+.about-me-img {
+  color: black;
+  width: 50%;
+  float: left;
+}
+
+.full-block {
+  height: auto;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+
+P {
+  font-family: "Helvetica", Times, serif;
+}
